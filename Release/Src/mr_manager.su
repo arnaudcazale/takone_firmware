@@ -1,0 +1,15 @@
+mr_manager.c:9:6:MR_initGroups	8	static
+mr_manager.c:18:6:MR_addGroup	32	static
+mr_manager.c:25:6:MR_eraseGroup	8	static
+mr_manager.c:32:6:MR_update	56	dynamic
+mr_manager.c:62:6:MR_startTargetLeft	72	dynamic
+mr_manager.c:114:6:MR_targetLeft	24	static
+mr_manager.c:141:6:MR_startReachTop	0	static
+mr_manager.c:151:6:MR_reachTop	32	dynamic
+mr_manager.c:172:6:MR_startReachBottom	0	static
+mr_manager.c:182:6:MR_reachBottom	32	dynamic
+mr_manager.c:205:6:MR_goHori	32	dynamic
+mr_manager.c:225:6:MR_startBlindMotion	16	static
+mr_manager.c:237:6:MR_blindMotorMotion	16	static
+mr_manager.c:256:6:MR_startBackStopMotion	12	static
+mr_manager.c:267:6:MR_backStopMotion	16	static

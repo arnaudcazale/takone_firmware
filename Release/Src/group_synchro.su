@@ -1,0 +1,11 @@
+group_synchro.c:10:6:initGroup	16	static
+group_synchro.c:54:6:GS_startMotors	24	static
+group_synchro.c:69:6:GS_stopMotors	16	static
+group_synchro.c:87:6:GS_startTargeting	16	static
+group_synchro.c:137:6:GS_startResetPosition	16	static
+group_synchro.c:151:6:GS_resetPosition	16	static
+group_synchro.c:171:6:GS_startAutoCalibrate	24	static
+group_synchro.c:182:6:GS_autoCalibrate	8	static
+group_synchro.c:202:6:computeSpeeds	40	static
+group_synchro.c:100:6:GS_reachPosition	16	static
+group_synchro.c:30:6:updateSynchro	24	static

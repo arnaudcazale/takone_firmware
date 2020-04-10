@@ -1,0 +1,1 @@
+# takone_firmware

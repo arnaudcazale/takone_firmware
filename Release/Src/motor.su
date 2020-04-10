@@ -1,0 +1,5 @@
+motor.c:10:6:standardInitMotor	0	static
+motor.c:31:6:setMotorTPower	0	static
+motor.c:35:6:setMotorPower	12	static
+motor.c:41:6:setMotorTSense	0	static
+motor.c:46:6:updateMotor	16	static

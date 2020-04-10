@@ -1,0 +1,8 @@
+group_manager.c:10:6:initGroups	128	static
+group_manager.c:20:6:update	16	static
+group_manager.c:27:6:updateGroupSynchros	16	static
+group_manager.c:36:6:updateVCaptors	16	static
+group_manager.c:52:6:updateMotors	16	static
+group_manager.c:60:6:eraseGroup	8	static
+group_manager.c:65:9:collapseGroups	32	static
+group_manager.c:87:6:addGroup	16	static

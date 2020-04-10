@@ -1,0 +1,13 @@
+vcaptor.c:18:6:updateVCaptor	32	static
+vcaptor.c:75:6:updateVSpeed	24	static
+vcaptor.c:86:7:getAverageSpeed	8	static
+vcaptor.c:97:6:resetSpeedData	0	static
+vcaptor.c:108:6:standardInitVCaptor	0	static
+vcaptor.c:140:6:startMeasure	0	static
+vcaptor.c:146:6:startTargeting	8	static
+vcaptor.c:162:6:reachPosition	8	static
+vcaptor.c:173:6:startResetPosition	0	static
+vcaptor.c:179:6:resetPosition	16	static
+vcaptor.c:198:6:startAutoCalibrate	24	static
+vcaptor.c:212:6:autoCalibrate	32	static
+vcaptor.c:247:6:keepTSpeed	32	static
